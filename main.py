@@ -7,7 +7,7 @@ import sys
 import time
 pygame.init()
 screen = pygame.display.set_mode((300,200))
-print('     ----  Copyright [2020] by [WangBotao]  ----   ')
+print('     ----  Copyright [2020] by [NJUP]  ----   ')
 print('按下F1，获取球洞坐标')
 
 def check_key():
