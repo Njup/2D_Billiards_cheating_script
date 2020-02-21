@@ -14,7 +14,7 @@ def check_key():
     for event in pygame.event.get():
        
         if event.type ==pygame.KEYDOWN:
-            if event.key == pygame.K_F1:                 #此处导入函数
+            if event.key == pygame.K_F1:                 
                 qiudong.qd()
                 print('按下F2，获取目标球坐标')
 
